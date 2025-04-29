@@ -1,0 +1,1 @@
+Enter flask diameter and height x amount. Add additional flasks as necessary. Tree displacement has been set for gold or platinum but can be adjusted. Powder/Water and Powder/Water/Binder ratios are set but can be adjusted. Powder density set for basic gypsum and phosphate applications but can be adjusted to suit others. Accumulative measurements given at the end. 
